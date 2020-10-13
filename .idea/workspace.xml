@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dab4b78-3e36-4cd2-a05f-8a1d2db399b0" name="Default Changelist" comment="" />
+    <list default="true" id="7dab4b78-3e36-4cd2-a05f-8a1d2db399b0" name="Default Changelist" comment="Add page title">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.min.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,8 +68,16 @@
       <option name="presentableId" value="Default" />
       <updated>1602604235877</updated>
       <workItem from="1602604238830" duration="148000" />
-      <workItem from="1602604413619" duration="824000" />
+      <workItem from="1602604413619" duration="1478000" />
     </task>
+    <task id="LOCAL-00001" summary="Change name of site?">
+      <created>1602605869500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602605869500</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +97,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Change name of site?" />
+    <MESSAGE value="Add page title" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add page title" />
   </component>
   <component name="WindowStateProjectService">
     <state x="104" y="32" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602604487549">
@@ -95,6 +110,14 @@
       <screen x="0" y="25" width="1280" height="696" />
     </state>
     <state x="149" y="25" key="SettingsEditor/0.25.1280.696@0.25.1280.696" timestamp="1602604791834" />
+    <state x="240" y="110" key="Vcs.Push.Dialog.v2" timestamp="1602605876765">
+      <screen x="0" y="25" width="1280" height="696" />
+    </state>
+    <state x="240" y="110" key="Vcs.Push.Dialog.v2/0.25.1280.696@0.25.1280.696" timestamp="1602605876765" />
+    <state x="341" y="25" width="597" height="696" key="find.popup" timestamp="1602606273273">
+      <screen x="0" y="25" width="1280" height="696" />
+    </state>
+    <state x="341" y="25" width="597" height="696" key="find.popup/0.25.1280.696@0.25.1280.696" timestamp="1602606273273" />
     <state x="305" y="165" key="run.anything.popup" timestamp="1602604831114">
       <screen x="0" y="25" width="1280" height="696" />
     </state>
