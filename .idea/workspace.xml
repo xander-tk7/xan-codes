@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dab4b78-3e36-4cd2-a05f-8a1d2db399b0" name="Default Changelist" comment="Change page title">
+    <list default="true" id="7dab4b78-3e36-4cd2-a05f-8a1d2db399b0" name="Default Changelist" comment="Update gitignore for use with JetBrains products.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602604235877</updated>
       <workItem from="1602604238830" duration="148000" />
-      <workItem from="1602604413619" duration="1824000" />
+      <workItem from="1602604413619" duration="1972000" />
+      <workItem from="1602607136049" duration="148000" />
     </task>
     <task id="LOCAL-00001" summary="Change name of site?">
       <created>1602605869500</created>
@@ -83,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602606338423</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Change README contents.">
+      <created>1602606697246</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602606697246</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update gitignore for use with JetBrains products.">
+      <created>1602607177165</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602607177165</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +120,9 @@
     <MESSAGE value="Change name of site?" />
     <MESSAGE value="Add page title" />
     <MESSAGE value="Change page title" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change page title" />
+    <MESSAGE value="Change README contents." />
+    <MESSAGE value="Update gitignore for use with JetBrains products." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update gitignore for use with JetBrains products." />
   </component>
   <component name="WindowStateProjectService">
     <state x="104" y="32" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602604487549">
@@ -117,10 +133,10 @@
       <screen x="0" y="25" width="1280" height="696" />
     </state>
     <state x="149" y="25" key="SettingsEditor/0.25.1280.696@0.25.1280.696" timestamp="1602604791834" />
-    <state x="240" y="110" key="Vcs.Push.Dialog.v2" timestamp="1602606343082">
+    <state x="240" y="110" key="Vcs.Push.Dialog.v2" timestamp="1602607194205">
       <screen x="0" y="25" width="1280" height="696" />
     </state>
-    <state x="240" y="110" key="Vcs.Push.Dialog.v2/0.25.1280.696@0.25.1280.696" timestamp="1602606343082" />
+    <state x="240" y="110" key="Vcs.Push.Dialog.v2/0.25.1280.696@0.25.1280.696" timestamp="1602607194205" />
     <state x="341" y="25" width="597" height="696" key="find.popup" timestamp="1602606313179">
       <screen x="0" y="25" width="1280" height="696" />
     </state>
